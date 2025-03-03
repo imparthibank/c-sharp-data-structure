@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure.csproj", "{AF892215-6E6F-46AC-9BD9-C9C0D2C6DC0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure", "DataStructure.csproj", "{AF892215-6E6F-46AC-9BD9-C9C0D2C6DC0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance.PlayGround", "..\Inheritance.PlayGround\Inheritance.PlayGround.csproj", "{C2D75B53-E083-4725-85D8-48671C1D74F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMC.Playground", "..\WMC.Playground\WMC.Playground.csproj", "{F0C0DBE7-BAC1-4CD5-81EB-73F18050931A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{AF892215-6E6F-46AC-9BD9-C9C0D2C6DC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF892215-6E6F-46AC-9BD9-C9C0D2C6DC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF892215-6E6F-46AC-9BD9-C9C0D2C6DC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D75B53-E083-4725-85D8-48671C1D74F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D75B53-E083-4725-85D8-48671C1D74F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D75B53-E083-4725-85D8-48671C1D74F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D75B53-E083-4725-85D8-48671C1D74F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C0DBE7-BAC1-4CD5-81EB-73F18050931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C0DBE7-BAC1-4CD5-81EB-73F18050931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C0DBE7-BAC1-4CD5-81EB-73F18050931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C0DBE7-BAC1-4CD5-81EB-73F18050931A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
